@@ -1,0 +1,40 @@
+[
+	{
+		"name": "user 1",
+        "avatar": "avatar1.png",
+        "comments": "user 1: comment 1",		
+        "reply": [
+            {
+                "id": 1,
+                "name": "user 3",
+                "avatar": "avatar3.jpg",
+                "details": "user 1: comment 1: reply 1"
+            },
+            {
+                "id": 2,
+                "name": "user 4",
+                "avatar": "avatar4.jpg",
+                "details": "user 1: comment 1: reply 2"
+            }
+        ]
+	},
+	{
+		"name": "user 2",
+        "avatar": "avatar2.png",
+        "comments": "user 2: comment 1",
+        "reply": [
+            {
+                "id": 1,
+                "name": "user 5",
+                "avatar": "avatar5.png",
+                "details": "user 2: comment 1: reply 1"
+            },
+            {
+                "id": 2,
+                "name": "user 6",
+                "avatar": "avatar6.jpg",
+                "details": "user 2: comment 1: reply 2"
+            }
+        ]
+	}
+]
